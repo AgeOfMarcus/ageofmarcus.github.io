@@ -3,7 +3,7 @@ I'm not entirely sure what to put here...
 
 Check out my twitter: @pwned_by_marcus
 
-You can email me at: marcus@marcusweinberger.com
+My mastodon is: @ageofmarcus@mastodon.social
 
 I'm on linkedin: https://linkedin.com/in/marcusweinberger
 
