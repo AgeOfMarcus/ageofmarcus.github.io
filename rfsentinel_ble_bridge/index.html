@@ -7,4 +7,16 @@
 </head>
 <body>
   <h1>WebFlasher for rfsentinel_ble_bridge</h1>
+  <h3 style='color: grey'>Use this WebFlasher to install the firmware to your <span style='font-weight: bold'>ESP32</span></h3>
+  <hr/>
+
+  <p><span style='font-weight: bold'>Please note: </span>this firmware was built for a standard esp32. Using this flash tool will erase any previous firmware on your board.</p>
+  
+  <esp-web-install-button manifest="manifest.json"></esp-web-install-button>
+
+  <footer>Web flasher powered by <a href='https://esphome.github.io/esp-web-tools/'>ESP Web Tools</a></footer>
+  <script
+    type="module"
+    src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module"
+  ></script>
 </body>
