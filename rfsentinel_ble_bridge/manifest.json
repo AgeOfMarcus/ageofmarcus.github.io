@@ -1,6 +1,7 @@
 {
   "name": "rfsentinel_ble_bridge",
   "version": "2026.11.26",
+  "funding_url": "https://blog.marcusj.org/sponsor",
   "new_install_prompt_erase": false,
   "builds": [
     {
