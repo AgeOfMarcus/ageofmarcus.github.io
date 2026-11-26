@@ -6,7 +6,7 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "https://ageofmarcus.github.io/rfsentinel_ble_bridge/rfsentinel_ble_bridge.bin", "offset": 0 },
+        { "path": "https://ageofmarcus.github.io/rfsentinel_ble_bridge/rfsentinel_ble_bridge.bin", "offset": 0 }
       ]
     }
   ]
