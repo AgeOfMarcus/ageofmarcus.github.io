@@ -1,0 +1,13 @@
+{
+  "name": "rfsentinel_ble_bridge",
+  "version": "2026.11.26",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "rfsentinel_ble_bridge.bin", "offset": 0 },
+      ]
+    }
+  ]
+}
